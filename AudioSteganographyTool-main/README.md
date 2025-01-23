@@ -1,0 +1,1 @@
+Created a Steganography application using Flask and Socket.IO to embed and extract encrypted files within audio files. Implemented AES-256-CBC encryption and decryption, integrated email notifications with file attachments, and ensured secure data transmission and storage. This project highlights skills in secure data handling, cryptography, and real-time web communication.
